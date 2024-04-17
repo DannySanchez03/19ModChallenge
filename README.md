@@ -8,9 +8,14 @@ github: https://github.com/DannySanchez03/19ModChallenge
 
 In this Module 19 Challenge we were told to clone a github repository and implement the functionalitys of the todo's comments inside of the client folder files. This app is a text editor that can work offline, it can also be installed from your browser.
 
+![my screenshot](assets/app.png)
+
 ## Installation
 
-N/A
+I was having trouble deploying this application on render, this is what ended up showing up on the console.
+After checking if the port being 3000 I switched it on the server.js file, I ended up trying 4000 becuase I had looked at the documentation and that didnt solve the problem. It would be nice if I can get some feedback towards why my app isn't being deployed.
+
+![my screenshot](assets/consoleProblem.png)
 
 ## Usage
 
