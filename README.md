@@ -9,6 +9,10 @@ github: https://github.com/DannySanchez03/19ModChallenge
 In this Module 19 Challenge we were told to clone a github repository and implement the functionalitys of the todo's comments inside of the client folder files. This app is a text editor that can work offline, it can also be installed from your browser.
 
 ![my screenshot](assets/app.png)
+![my screenshot](assets/Mani.png)
+![my screenshot](assets/SW.png)
+![my screenshot](assets/IDB.png)
+
 
 ## Installation
 
