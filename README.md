@@ -1,14 +1,12 @@
-# 19 Progressive Web Application (PWA): Text Editor
+# Progressive Web Application (PWA): Text Editor
+17th Challenge
+github: https://github.com/DannySanchez03/PWA
 
-# Online thoughts app
-
-github: https://github.com/DannySanchez03/19ModChallenge
-
-deployed on render here -> https://gdb-text-editor.onrender.com
+deployed: [here](https://gdb-text-editor.onrender.com)
 
 ## Description
 
-In this Module 19 Challenge we were told to clone a github repository and implement the functionalitys of the todo's comments inside of the client folder files. This app is a text editor that can work offline, it can also be installed from your browser.
+In this 17th Challenge I was told to clone a github repository and implement the functionalitys of the todo's comments inside of the client folder files. This app is a text editor that can work offline, it can also be installed from your browser.
 
 ![my screenshot](assets/app.png)
 ![my screenshot](assets/Mani.png)
