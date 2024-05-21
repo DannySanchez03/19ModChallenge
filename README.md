@@ -1,6 +1,5 @@
 # Progressive Web Application (PWA): Text Editor
 17th Challenge
-github: https://github.com/DannySanchez03/PWA
 
 deployed: [here](https://gdb-text-editor.onrender.com)
 
